@@ -1,0 +1,20 @@
+.list{
+  display: none;
+}
+
+h1{
+  text-align: center;
+}
+
+.centre {
+  padding-top: 10%;
+}
+
+li{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#done{
+  margin-left: 20px;
+}
